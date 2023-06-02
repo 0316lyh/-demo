@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import HelloWorld from './components/HelloWorld.vue'1
+import HelloWorld from './components/HelloWorld.vue'
 // test
 </script>
 
